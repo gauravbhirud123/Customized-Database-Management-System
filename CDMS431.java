@@ -1,5 +1,5 @@
 // Customised Database Management System
-class Program431
+class CDMS431
 {
     public static void main(String Arg[])
     {
