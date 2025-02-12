@@ -11,6 +11,7 @@ class CDMS431
         obj.InsertIntoTable("Amit","Nagar",81);
         obj.InsertIntoTable("Rahul","Satara",80);
         obj.InsertIntoTable("Neha","Pune",78);
+         obj.InsertIntoTable("Gaurav","Pune",79);
 
         obj.SelectStarFrom();
 
